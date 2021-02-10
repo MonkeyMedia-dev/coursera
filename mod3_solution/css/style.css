@@ -1,0 +1,38 @@
+.navbar-brand h1{
+    color: rgba(0,0,0,.55);
+    margin: 10px 30px;
+}
+
+#menu-top {
+    background-color: #FAE0C7;
+    padding: 0;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.navbar-collapse ul {
+    margin:0;
+    padding:0;
+}
+
+.nav-item {
+    background-color: pink;
+    text-align: center;
+}
+
+.divider {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-toggler {
+    border: 1px solid rgba(0,0,0,.55);
+    color: rgba(0,0,0,.55);
+    margin: 0 30px;
+}
+
+
+
+
