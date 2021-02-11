@@ -18,13 +18,15 @@ h3 {
     background-color: #FAE0C7;
     padding: 0;
 }
-
 .navbar-collapse ul {
     margin:0;
     padding:0;
 }
 .nav-item {
-    background-color: pink;
+    background-color: #ffc0cb;
+}
+.nav-item:hover{
+    background-color: #fde1e6;
 }
 .divider {
     padding: 0;
