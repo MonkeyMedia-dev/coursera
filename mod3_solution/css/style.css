@@ -1,14 +1,21 @@
+/* General rules */
+h2 {
+    margin: 20px;
+}
+h3 {
+    font-size: 1.3em;
+}
+.container-fluid{
+    padding: 0;
+}
+
+/* Header rules */
 .navbar-brand h1{
     color: rgba(0,0,0,.55);
     margin: 10px 30px;
 }
-
 #menu-top {
     background-color: #FAE0C7;
-    padding: 0;
-}
-
-.container-fluid{
     padding: 0;
 }
 
@@ -16,23 +23,26 @@
     margin:0;
     padding:0;
 }
-
 .nav-item {
     background-color: pink;
     text-align: center;
 }
-
 .divider {
     padding: 0;
     margin: 0;
 }
-
 .navbar-toggler {
     border: 1px solid rgba(0,0,0,.55);
     color: rgba(0,0,0,.55);
     margin: 0 30px;
 }
 
-
-
-
+/* Section rules */
+#main {
+    padding: 0 30px;
+}
+#chicken {
+    background-color: #FFB6AF ;
+    padding: 20px;
+    margin-bottom: 30px;
+} 
